@@ -25,7 +25,7 @@
         </v-flex>
     </v-layout>
 </template>
-<script>
+<script type="text/javascript">
 import axios from 'axios'
 export default {
     data(){
@@ -59,6 +59,7 @@ export default {
     }
     
 }
+
 </script>
 
 
